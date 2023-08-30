@@ -12,8 +12,9 @@ Citation Secrete is a small website where you can entre a sentece and when you c
 
 You can go and try it here [Citation Secrete](https://2150658.techinfo-cstj.ca/3D4/tp1/index.html)
 
-<img src="https://github.com/crobichaud-cstj/AngualrProject/assets/89365878/801cff3c-f49b-45b3-a19a-2e69b91f7770" width="700" height="400"/>
-<img src="https://github.com/crobichaud-cstj/AngualrProject/assets/89365878/529c8d70-f798-4411-a1cf-8ec5c52785ac" width="700" height="400"/>
+![image](https://github.com/crobichaud-cstj/AngualrProject/assets/89365878/86c00cf9-85e1-414c-94f2-8463aa9e2813)
+![image](https://github.com/crobichaud-cstj/AngualrProject/assets/89365878/3428466d-5e17-4eb8-a59c-45329432372d)
+
 
 
 ## Converto
